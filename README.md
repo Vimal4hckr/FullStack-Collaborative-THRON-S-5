@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Yes. Since students will **pull the repository, modify the HTML/CSS/JS, and push their work**, the README should clearly state the current baseline and the rules.
-
-You can use this as the project's `README.md`:
-
-````markdown
 # 5-Throne's Programming Quiz
 
 A Django-based Programming Quiz Platform developed as a collaborative frontend enhancement project.
